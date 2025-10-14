@@ -19,7 +19,7 @@ The primary goal was to build a production-ready application that solves a real-
 ---
 
 ## 📸 Results
-"C:\Users\Admin\Pictures\Screenshots\Screenshot 2025-10-15 021724.png"
+
 
 ---
 
