@@ -20,7 +20,7 @@ The primary goal was to build a production-ready application that solves a real-
 
 ## 📸 Results
 ![result](https://github.com/vanshshah55/Ai-EmailAssistant-using-SpringBoot-SpringAI/blob/main/React%20frontend%20result.png)
-![result](https://github.com/vanshshah55/Ai-EmailAssistant-using-SpringBoot-SpringAI/blob/213c6cefcb5935fc395567252cc88ea534408a9d/Chrome%20extension%20video1.mp4)
+https://github.com/user-attachments/assets/82bdaf88-6a0b-48cf-be75-c2f72e858332
 ---
 
 ## 🛠️ Tech Stack
