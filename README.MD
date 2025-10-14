@@ -18,7 +18,7 @@ The primary goal was to build a production-ready application that solves a real-
 
 ---
 
-## 🛠️ Tech Stack
+## 📸 Results
 
 ---
 
